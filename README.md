@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Divanei.
 
 
-- 🔭 I’m currently working on ...
+
 - 🌱 Estudando Analise e Desenvolivemento de Sistemas
 - 😄Venha me conhecer um pouco mais.
 
